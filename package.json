@@ -4,6 +4,12 @@
     "description": "Syntax highlighting and language server for the V8 Torque programming language",
     "version": "1.0.0",
     "publisher": "szuend",
+    "license": "SEE LICENSE IN LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/v8/vscode-torque.git"
+    },
+    "icon": "./v8-logo.png",
     "engines": {
         "vscode": "^1.31.0"
     },
