@@ -2,7 +2,7 @@
     "name": "vscode-torque",
     "displayName": "Torque language support",
     "description": "Syntax highlighting and language server for the V8 Torque programming language",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "szuend",
     "engines": {
         "vscode": "^1.31.0"
