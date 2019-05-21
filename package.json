@@ -9,7 +9,7 @@
         "type": "git",
         "url": "https://github.com/v8/vscode-torque.git"
     },
-    "icon": "./v8-logo.png",
+    "icon": "v8-logo.png",
     "engines": {
         "vscode": "^1.31.0"
     },
