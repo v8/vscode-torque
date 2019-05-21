@@ -1,6 +1,7 @@
 # V8 Torque Language Support
 
-This extension adds language support for [the Torque language used in V8](https://v8.dev/docs/torque).
+This extension adds language support for the V8 project internal language
+[V8 Torque](https://v8.dev/docs/torque).
 This is not an officially supported Google product.
 
 ### Language server
