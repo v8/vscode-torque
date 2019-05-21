@@ -3,7 +3,7 @@
     "displayName": "Torque language support",
     "description": "Syntax highlighting and language server for the V8 Torque programming language",
     "version": "1.0.0",
-    "publisher": "szuend",
+    "publisher": "v8-torque",
     "license": "SEE LICENSE IN LICENSE",
     "repository": {
         "type": "git",
