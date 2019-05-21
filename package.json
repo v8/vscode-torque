@@ -1,8 +1,8 @@
 {
     "name": "vscode-torque",
-    "displayName": "Torque language support",
+    "displayName": "V8 Torque Language Support",
     "description": "Syntax highlighting and language server for the V8 Torque programming language",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "v8-torque",
     "license": "SEE LICENSE IN LICENSE",
     "repository": {
@@ -20,7 +20,7 @@
         "onLanguage:torque",
         "workspaceContains:**/*.tq"
     ],
-    "main": "./out/extension",
+    "main": "out/extension.js",
     "contributes": {
         "configuration": {
             "type": "object",
