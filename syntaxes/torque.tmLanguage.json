@@ -103,7 +103,7 @@
         },
         {
           "name": "keyword.other.torque",
-          "match": "\\b(constexpr|macro|builtin|runtime|intrinsic|javascript|implicit|deferred|label|labels|tail|let|generates|weak|extern|const|typeswitch|case|transient|transitioning|operator|namespace)\\b"
+          "match": "\\b(constexpr|macro|builtin|runtime|intrinsic|javascript|implicit|js-implicit|deferred|label|labels|tail|let|generates|weak|extern|const|typeswitch|case|transient|transitioning|operator|namespace)\\b"
         },
         {
           "name": "keyword.operator.torque",
