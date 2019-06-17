@@ -12,7 +12,7 @@
             },
             "isBackground": true,
             "problemMatcher": [
-                "$tsc-watch"
+                "$ts-webpack"
             ]
         }
     ]

@@ -1,5 +1,8 @@
 .gitignore
 .vscode
+node_modules/
+out/
 src/
 tsconfig.json
 tslint.json
+webpack.config.js
